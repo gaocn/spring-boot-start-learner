@@ -1,0 +1,3 @@
+# 注册配置自动配置类 或者在启动类上添加以下注解
+# @ImportAutoConfiguration({LearnerAutoConfig.class})
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=govind.learner.LearnerAutoConfig
